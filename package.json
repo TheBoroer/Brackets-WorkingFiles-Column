@@ -1,0 +1,16 @@
+{
+    "title": "Working Files Column",
+    "name": "working-files-column",
+    "description": "Reposition working files panel in Brackets to be to the right of the Project Files (mac finder style)",
+    "version": "0.0.1",
+    "keywords": ["working files", "Working Files Column", "Working Files Finder Column"],
+    "author": "Boro Vukovic <github@ca.bo.ro>",
+    "homepage": "https://github.com/TheBoroer/Brackets-WorkingFiles-Column",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/TheBoroer/Brackets-WorkingFiles-Column.git"
+    },
+    "engines": {
+        "brackets": ">=0.38.0"
+    }
+}

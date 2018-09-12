@@ -1,0 +1,28 @@
+#working-set-list-container {
+  min-height: 200px;
+  position: relative;
+  height: 100% !important;
+}
+
+
+#project-working-container {
+/*  background: #47484B;*/
+  width: 100%;
+  height: 100%;
+}
+
+#project-working-container #splitLeft {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+}
+
+#project-working-container #splitRight {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+}
